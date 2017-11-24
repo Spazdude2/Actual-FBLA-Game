@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\MainMenu.cs" />
+     <Compile Include="Assets\PlayerToNPC.cs" />
      <Compile Include="Assets\Sun.cs" />
      <None Include="Assets\AssetStore\VoxelCharacters\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\AssetStore\VoxelCharacters\ToonShading\Shaders\Mirror 1.shader" />
