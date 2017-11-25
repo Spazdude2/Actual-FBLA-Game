@@ -225,13 +225,14 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Dialog.cs" />
-    <Compile Include="Assets\DialogManager.cs" />
-    <Compile Include="Assets\DialogueTrigger.cs" />
+    <Compile Include="Assets\FailedScripts\Dialog.cs" />
+    <Compile Include="Assets\FailedScripts\DialogManager.cs" />
+    <Compile Include="Assets\FailedScripts\DialogueTrigger.cs" />
+    <Compile Include="Assets\FailedScripts\PlayerToNPC.cs" />
+    <Compile Include="Assets\Interactable.cs" />
     <Compile Include="Assets\MainMenu.cs" />
-    <Compile Include="Assets\PasueMenu.cs" />
-    <Compile Include="Assets\PlayerToNPC.cs" />
     <Compile Include="Assets\Sun.cs" />
+    <Compile Include="Assets\WorldInteraction.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AssetStore\VoxelCharacters\ToonShading\Shaders\Mirror 1.shader" />

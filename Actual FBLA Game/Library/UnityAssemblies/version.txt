@@ -69,7 +69,7 @@ C:/Users/Andrew Spaziani/Desktop/Unity/Editor/Data/UnityExtensions/Unity/UnityVR
 C:/Users/Andrew Spaziani/Desktop/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll
 C:/Users/Andrew Spaziani/Desktop/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 C:/Users/Andrew Spaziani/Desktop/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
 C:/Users/Andrew Spaziani/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@1.0.7/Editor/UnityEditor.Advertisements.dll
 C:/Users/Andrew Spaziani/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/Editor/UnityEditor.Analytics.dll
 C:/Users/Andrew Spaziani/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/Editor/UnityEditor.Purchasing.dll
-C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
